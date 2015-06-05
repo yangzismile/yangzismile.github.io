@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	galleryStyle="MODERN"
+	title="太阳花For吴阳"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="20"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"	
+	maxImageWidth="640"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""		
+	imagePath="images/"
+	thumbPath="thumbs/"
+	
+>
+
+<image imageURL="images/feizhouju.jpg" thumbURL="thumbs/wide.jpg"  linkURL="" linkTarget="" >
+	<caption><![CDATA[Welcome to <u><a href="http://www.simpleviewer.net" target="_blank">SimpleViewer</a></u>.]]></caption>	
+</image>
+<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
+	<caption>SimpleViewer is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.</caption>	
+
+</image>
+<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+</simpleviewergallery>
